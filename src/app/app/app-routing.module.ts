@@ -1,4 +1,4 @@
-git remote add origin https://github.com/sojankreji/angularRouterDemo.gitimport { NgModule } from '@angular/core';
+import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { AutoloadComponent } from '../autoload/autoload.component';
 
